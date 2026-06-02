@@ -1,4 +1,4 @@
-# 👨‍💻 David Zapata – Ingeniero de Sistemas en Formación y Futuro Desarrolador Web 
+# 👨‍💻 David Zapata – Ingeniero de Sistemas en Formación 
 
 ¡Hola! Soy David, un estudiante de Ingeniería de Sistemas apasionado por construir soluciones creativas, funcionales y visuales. Me encanta llevar ideas a la realidad con **Python**, **Django**, y el poder de la **interacción visual**. También he trabajado en proyectos educativos y científicos donde la lógica, la interfaz y la experiencia del usuario son clave.
 
