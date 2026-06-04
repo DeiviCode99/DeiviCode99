@@ -1,47 +1,137 @@
-# 👨‍💻 David Zapata – Ingeniero de Sistemas en Formación 
+# 👨‍💻 David Alejandro Zapata Toro
 
-¡Hola! Soy David, un estudiante de Ingeniería de Sistemas apasionado por construir soluciones creativas, funcionales y visuales. Me encanta llevar ideas a la realidad con **Python**, **Django**, y el poder de la **interacción visual**. También he trabajado en proyectos educativos y científicos donde la lógica, la interfaz y la experiencia del usuario son clave.
+### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas UIS
 
----
+¡Hola! Soy David Zapata, estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS) y desarrollador Full Stack apasionado por la construcción de soluciones tecnológicas que generen impacto real en organizaciones y comunidades.
 
-## 🚀 Mis áreas de interés
-
-- 🧠 **IA y Data Science**
-- 🛠️ **Desarrollo web full-stack** (Django + Bootstrap o Vue.js)
-- 🖥️ **Interfaces gráficas e interactivas**
-- 🧪 **Proyectos STEM educativos**
-- 🧩 **Sistemas locales y SPA para gestión clínica**
+Tengo experiencia en el desarrollo de aplicaciones web y móviles, administración de plataformas institucionales, implementación de sistemas de gestión y desarrollo de soluciones IoT. Me interesa especialmente la ingeniería de software, las arquitecturas modernas de aplicaciones, la inteligencia artificial y la transformación digital de procesos.
 
 ---
 
-## 🧪 Proyectos destacados
+## 🚀 Áreas de especialización
 
-### 🔬 [Simulador Interactivo de Interferencia de Young](#)
-Una app interactiva hecha con **Pygame** que permite a los usuarios experimentar visualmente con fenómenos de interferencia. Ideal para explicar conceptos complejos de forma intuitiva.
-
-
-
-### 🧪 [Simulador de Mezclas Salinas](#)
-Visualizador de procesos de tanques con ecuaciones diferenciales, flujo dinámico y representación 3D. Desarrollado con **Streamlit** y bibliotecas científicas de Python.
-
----
-## 🧪 Proyectos en proceso
-
-### 🎓 [StudyHub](#)
-Plataforma educativa modular para gestionar cursos, lecciones, quizzes y certificados, con seguimiento al progreso de estudiantes. Backend en **Django**, interfaz en **Jinja2 + Bootstrap**.
+* 🌐 Desarrollo Web Full Stack
+* 📱 Desarrollo de Aplicaciones Móviles
+* 🏗️ Arquitectura de Software
+* 🔌 Internet de las Cosas (IoT)
+* 📊 Análisis de Datos
+* 🎓 Plataformas Educativas
+* ☁️ Despliegue y Administración de Aplicaciones
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 💼 Experiencia Profesional
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-![Pygame](https://img.shields.io/badge/-Pygame-0C2C35?logo=pygame&logoColor=white&style=flat)
+### 🌟 Fundación Érase una Vez
+
+**Desarrollador y Administrador Web**
+
+Administración, mantenimiento y actualización de la plataforma institucional, gestión de contenido digital, optimización de la experiencia de usuario y fortalecimiento de la presencia digital de la organización.
+
+### 🌟 Fundación Social Educativa Sueños de Amor (FUNDSAM)
+
+**Desarrollador y Administrador Web**
+
+Gestión y mantenimiento de la plataforma institucional, publicación de contenido académico, optimización de servicios digitales y soporte técnico para la comunidad educativa.
+
+### 💄 Belleza Plena Centro SPA
+
+**Desarrollador Full Stack**
+
+Diseño e implementación de un sistema integral para la gestión de citas, clientes y procesos administrativos, utilizando tecnologías modernas para garantizar escalabilidad y facilidad de uso.
 
 ---
+
+## 🧩 Proyectos Destacados
+
+### 📱 NightBarSystem
+
+Sistema móvil de gestión para bares desarrollado con React Native y Django.
+
+**Características:**
+
+* Autenticación JWT
+* Gestión de usuarios
+* Administración de información
+* Arquitectura cliente-servidor
+
+**Tecnologías:** React Native, Django, PostgreSQL, JWT.
+
+---
+
+### 🔌 Plataforma IoT de Monitoreo Inteligente
+
+Sistema basado en microcontroladores y sensores para la adquisición y visualización de datos en tiempo real.
+
+**Tecnologías:** ESP32, Sensores IoT, APIs REST, React, Django.
+
+---
+
+### 🌐 Plataformas Institucionales
+
+Diseño, desarrollo y mantenimiento de plataformas web para organizaciones del sector educativo y social, enfocadas en accesibilidad, gestión de contenido y experiencia de usuario.
+
+**Tecnologías:** React, Django, JavaScript, HTML5, CSS3.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+* Java
+
+### Frontend
+
+* React
+* React Native
+* JavaScript
+* HTML5
+* CSS3
+
+### Bases de Datos
+
+* PostgreSQL
+* SQLite
+* MySQL
+
+### Ciencia de Datos
+
+* Python
+* R
+* Pandas
+* NumPy
+
+### Herramientas
+
+* Git
+* GitHub
+* Postman
+* Render
+* GitHub Pages
+
+---
+
+## 🎯 Actualmente
+
+* Desarrollando plataformas web para organizaciones educativas y sociales.
+* Construyendo soluciones IoT para monitoreo en tiempo real.
+* Fortaleciendo conocimientos en arquitectura de software e inteligencia artificial.
+* Explorando tecnologías cloud y buenas prácticas de ingeniería de software.
+
+---
+
+## 📫 Contacto
+
+📧 Correo: [alejozt2003@gmail.com](mailto:alejozt2003@gmail.com)
+
+💻 GitHub: github.com/DeiviCode99
+
+🎓 Universidad Industrial de Santander (UIS)
+
+---
+
+> "La tecnología tiene valor cuando transforma necesidades reales en soluciones útiles para las personas."
